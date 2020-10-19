@@ -23,37 +23,37 @@ body {
     border: .25vmin solid black;
 }
 
-.tetrominoI{
+.tetromino1{
     background-color: cyan;
     border: .25vmin solid black;
 }
 
-.tetrominoJ{
+.tetromino2{
     background-color: blue;
     border: .25vmin solid black;
 }
 
-.tetrominoL{
+.tetromino3{
     background-color: orange;
     border: .25vmin solid black;
 }
 
-.tetrominoO{
+.tetromino4{
     background-color: yellow;
     border: .25vmin solid black;
 }
 
-.tetrominoS{
+.tetromino5{
     background-color: green;
     border: .25vmin solid black;
 }
 
-.tetrominoT{
+.tetromino6{
     background-color: purple;
     border: .25vmin solid black;
 }
 
-.tetrominoZ{
+.tetromino7{
     background-color: red;
     border: .25vmin solid black;
 }
